@@ -10,8 +10,7 @@ font-family: sans-serif;
     width: 100%;
     height: 100vh;
     background-image: linear-
-    gradiennt(rgba,(0,0,0.75)),(rgba,(0,0,0.75)),url(background.jpg)
+    gradiennt(rgba(0,0,0,0.75),rgba(0,0,0,0.75))
     background-size: cover;
     background-position: center;
-
-}
+} 
